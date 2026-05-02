@@ -92,6 +92,6 @@ footer {
 /* control image height */
 .card-img-top {
     width: 100%;
-    height: 250px;    
-    object-fit: cover;   
+    height: auto;
+    object-fit: contain;
 }
